@@ -1,0 +1,12 @@
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\bin\Debug\kargotakip.exe.config
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\bin\Debug\kargotakip.exe
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\bin\Debug\kargotakip.pdb
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.csproj.AssemblyReference.cache
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.Form1.resources
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.Properties.Resources.resources
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.csproj.GenerateResource.cache
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.exe
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.pdb
+C:\Users\niyaz\source\repos\kargotakip\kargotakip\obj\Debug\kargotakip.Form2.resources
